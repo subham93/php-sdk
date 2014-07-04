@@ -1,7 +1,7 @@
 This is the PHP SDK for PayZippy Merchant API.
 
 Setup Instructions
-==================
+======================
 
 1. Clone the repository to get php-sdk folder having index.php file, examples and payzippy-sdk folders. 
 
